@@ -2,3 +2,6 @@ clipboard_history.json
 .claude/
 __pycache__/
 *.pyc
+build/
+dist/
+*.spec
